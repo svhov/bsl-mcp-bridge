@@ -278,3 +278,8 @@ LSP протокол требует `textDocument/didOpen` перед опера
 ## 🤝 Вклад в проект
 
 См. `CONTRIBUTING.md`. Баги и идеи — через Issues.
+
+## 🙏 Благодарности
+
+- [SteelMorgan/mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge) — проект взят за основу
+- [nixel2007](https://github.com/nixel2007) — за консультации по BSL Language Server
